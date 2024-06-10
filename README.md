@@ -14,4 +14,4 @@ Demultiplex and remove sequencing adapters
 Porechop will by default name the demultiplexed fastq files BC01, BC02 etc. You need to now manually rename the the files in the format "trimmed_barcode01.fastq"
 
 Now run the snakemake file contained in this repository (after configuring the config.json file. This is the same as for the new snakefile). I.E.
-- --snakemake --cores 2
+- snakemake --cores 2
