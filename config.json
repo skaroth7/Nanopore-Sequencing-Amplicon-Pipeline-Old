@@ -1,8 +1,9 @@
 {
-    "data": "/WORKSPACE/Deb/20240530_0208_X2_ASH619_4f5ee780/",
-    "reference": "/WORKSPACE/Deb/ref_TRPC6.fa",
-    "fast5": "/WORKSPACE/Deb/20240530_0208_X2_ASH619_4f5ee780/fast5_pass",
-    "sequencing_summary": "/WORKSPACE/Deb/20240530_0208_X2_ASH619_4f5ee780/sequencing_summary_ASH619_4f5ee780_a4a34f22.txt",
+    "data": "/WORKSPACE/Oscar/deb_project/Deb/20240530_0208_X2_ASH619_4f5ee780/",
+    "reference": "/WORKSPACE/Oscar/deb_project/Deb/ref_TRPC6.fa",
+    "fast5": "/WORKSPACE/Oscar/deb_project/Deb/20240530_0208_X2_ASH619_4f5ee780/fast5_pass/",
+    "sequencing_summary": "/WORKSPACE/Oscar/deb_project/Deb/20240530_0208_X2_ASH619_4f5ee780/sequencing_summary_ASH619_4f5ee780_a4a34f22.txt",
     "nanopolish_reference": "TRPC6_Reference:0-172177",
-	"threads": "8"
+    "threads": "8"
+
 }
