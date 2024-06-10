@@ -9,7 +9,7 @@ Concatenate the fastq files
 - cat *fastq > merged.fastq
 
 Demultiplex and remove sequencing adapters
-- porechop -i "merged.fastq" -b "/demultiplex_fastq/" --threads 8       ##create a new folder in the data directory and name it demultiplex_fastq. Specify this directoy in the porechop command
+- porechop -i "merged.fastq" -b "/demultiplex_fastq/" --threads 8       ##create a new folder in the data directory and name it demultiplex_fastq. Specify this directory in the porechop command
 
 Now run the snakemake file contained in this page (after configuring the config.json file. This is the same as for the new snakefile). I.E.
 - --snakemake --cores 2
